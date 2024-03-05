@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aal-main
+- 👀 I’m interested in Web development, Graphics design
+- 🌱 I’m currently learning Js
+- 💞️ I’m looking to collaborate on Web app
+- 📫 How to reach me abdullahal_main@outlook.com or mainabdullahal@gmail.com
